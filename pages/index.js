@@ -31,7 +31,7 @@ export default function Home() {
 
 
 
-      <main >
+      <main className=''>
         
       </main>
 
